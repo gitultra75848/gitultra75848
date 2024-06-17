@@ -1,14 +1,14 @@
 - Beginner Programmer 💻
 
-- OS: MacOS 
-- Terminal: Alacritty 🅰️
-- Editor: AstroNvim ⌨️
+- OS: [MacOS](https://en.wikipedia.org/wiki/MacOS) 
+- Terminal: [Alacritty](https://alacritty.org) 🅰️
+- Editor: [AstroNvim](https://github.com/AstroNvim/AstroNvim) ⌨️
 
 ===============
 
-- WM: MrKai77/Loop ○
-- PM: Homebrew 🍺
-- Menu Bar: SketchyBar 📏
-- Launcher: Raycast 🚀
-- Shell: Fish 🐟
-- Shell Theme: Starship ⭐
+- WM: [Loop](https://github.com/MrKai77/Loop) ○
+- PM: [Homebrew](https://brew.sh) 🍺
+- Menu Bar: [SketchyBar](https://github.com/FelixKratz/SketchyBar) 📏
+- Launcher: [Raycast](https://www.raycast.com) 🚀
+- Shell: [Fish](https://fishshell.com) 🐟
+- Shell Theme: [Starship](https://starship.rs) ⭐
