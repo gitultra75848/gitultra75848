@@ -16,3 +16,7 @@
 ===============
 
 - i'd say i'm a pretty funny guy
+
+===============
+
+<a href="https://app.daily.dev/napkin"><img src="https://api.daily.dev/devcards/v2/lfolapPmkbIPFPgTq0i51.png?type=default&r=470" width="356" alt="napkin's Dev Card"/></a>
